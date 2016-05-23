@@ -49,7 +49,7 @@ define([
 
 	'vs/workbench/parts/debug/electron-browser/debug.contribution',
 
-	'vs/workbench/parts/errorList/browser/errorList.contribution',
+	'vs/workbench/parts/markers/markers.contribution',
 
 	'vs/workbench/parts/html/browser/html.contribution',
 
